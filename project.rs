@@ -6,4 +6,8 @@ fn main() {
 } else {
   println("Segundo Teste");
 }
+
+for i in 1..=15 {
+  println("Versão do Projeto: {}", i);
+}
 }
